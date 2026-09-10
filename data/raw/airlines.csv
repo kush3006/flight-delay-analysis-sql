@@ -1,0 +1,13 @@
+airline_id,carrier_code,airline_name,callsign,fleet_size,base_reliability,country
+1,DL,Delta Air Lines,DELTA,980,0.84,USA
+2,AA,American Airlines,AMERICAN,965,0.8,USA
+3,UA,United Airlines,UNITED,940,0.81,USA
+4,WN,Southwest Airlines,SOUTHWEST,820,0.78,USA
+5,AS,Alaska Airlines,ALASKA,315,0.83,USA
+6,B6,JetBlue Airways,JETBLUE,290,0.74,USA
+7,NK,Spirit Airlines,SPIRIT WINGS,210,0.73,USA
+8,F9,Frontier Airlines,FRONTIER FLIGHT,140,0.72,USA
+9,G4,Allegiant Air,ALLEGIANT,130,0.75,USA
+10,HA,Hawaiian Airlines,HAWAIIAN,65,0.87,USA
+11,OO,SkyWest Airlines,SKYWEST,520,0.81,USA
+12,MQ,Envoy Air,ENVOY,130,0.79,USA

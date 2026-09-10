@@ -1,0 +1,13 @@
+# Flight Delay Analysis Using SQL - Dependencies
+# Python 3.10+ compatible
+
+# Core Data & Database
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization & Dashboard
+streamlit>=1.30.0
+plotly>=5.18.0
+
+# Testing & Validation
+pytest>=8.0.0
