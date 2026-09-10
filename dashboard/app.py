@@ -1,9 +1,3 @@
-"""
-Flight Delay Analytics - Interactive Streamlit Dashboard.
-Visualizes key operational metrics, root-cause decompositions, carrier rankings,
-and provides an interactive SQL Query Inspector for technical reviewers.
-"""
-
 from pathlib import Path
 import sqlite3
 import sys
