@@ -187,13 +187,6 @@ flight-delay-analysis-sql/
 
 ---
 
-## 📝 Resume Bullet Points (Ready to Copy)
-
-- **Flight Delay & Operational Intelligence (SQL, SQLite, Streamlit)**  
-  - Engineered an end-to-end operational analytics pipeline over **100,000+ commercial flight records**, evaluating fleet-wide On-Time Performance (OTP-15) and carrier punctuality benchmarks modeled on FAA/BTS standards.  
-  - Developed **8 modular SQL analytics suites** utilizing multi-tier CTEs, advanced window functions (`LAG`/`LEAD`, rolling 7-day averages, `NTILE`), and conditional aggregation to decompose root causes into Carrier (29%), Weather (13%), NAS (19%), and Late Aircraft turnaround propagation (38%).  
-  - Quantified economic cost drag using the FAA APO-130 benchmark (\$74.24/min), discovering that a targeted 7-minute schedule buffer on top chronic corridors rescues **5,600+ flights** into on-time status, yielding **\$2.94M in simulated cost avoidance**.  
-  - Built an interactive **Streamlit & Plotly executive dashboard** featuring live KPI monitoring and a dynamic SQL query inspector.
 
 ---
 
